@@ -1,3 +1,3 @@
 # Pano Project
 
-Simple website design
+Simple webapp design
